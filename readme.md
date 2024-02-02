@@ -24,7 +24,7 @@ docker-compose up -d
 | 172.20.10.5 | 3308 | slave |
 
 
-## On each connection run bellow queries
+## On each connection run below queries
 
 ### Master connection
 ```sh
